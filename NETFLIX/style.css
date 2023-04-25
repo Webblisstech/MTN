@@ -1,0 +1,103 @@
+
+
+
+body {
+    background-color: #00091D;
+}
+
+.logo {
+     color: red;
+     font-family: Arial, Helvetica, sans-serif;
+     margin-left: 1%;
+     margin-top: 1%;
+}
+
+nav{
+  position: sticky; top: 5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sign {
+    color: white;
+      background-color: red;
+   margin-right: 3%;
+    border-color: red;
+   border-radius: 10px;
+   padding: 5px 10px 8px 15px;
+}
+.bg{
+  background-image: url("images/netflix-library-photo-scaled.jpeg");
+  height: 500px;
+  
+}
+.en {
+   margin-left: 50px;
+}
+.tv {
+   color: white;
+   font-family: 'Segoe UI', Roboto,  Ubuntu, sans-serif;
+   font-weight: 900;
+   display: flex;
+
+}
+.row {
+  display: flex;
+}
+.column1 {
+  float: left;
+  width: 50%;
+  margin-left: 20px;
+}
+
+.column2 {
+  float: right;
+  width: 50%;
+  margin-left: 20px;
+}
+.enjoy {
+  color: white;
+  margin-left: 20%;
+  margin-top: 20%;
+  font-size: xx-large;
+  font-family: 'Segoe UI', Roboto, Ubuntu, sans-serif;
+      
+}
+.watch {
+  color: white;
+  margin-left: 20%;
+  font-family: sans-serif;
+
+}
+
+.enjoys {
+  color: white;
+ margin-left: 20%;
+  margin-top: 20%;
+  font-size: 40px;
+  font-family: 'Segoe UI', Roboto, Ubuntu, sans-serif;
+     
+}
+.watch {
+  color: white;
+  margin-left: 20%;
+  font-family: sans-serif;
+ 
+
+}
+.img {
+  margin-left: 15%;
+}
+.enjoys1 {
+  color: white;
+ margin-left: 15%;
+  margin-top: 20%;
+  font-size: 40px;
+  font-family: 'Segoe UI', Roboto, Ubuntu, sans-serif;
+     
+}
+.watch1{
+  color: white;
+  margin-left: 15%;
+  font-family: sans-serif;
+}
